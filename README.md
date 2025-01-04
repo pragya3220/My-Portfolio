@@ -15,41 +15,12 @@ Welcome to my portfolio repository! This is where I showcase my skills, projects
 This portfolio is built using modern web technologies for a seamless and responsive experience:  
 - **Frontend**: HTML, CSS, JavaScript, React.js  
 - **Styling**: Tailwind CSS / Bootstrap (customizable based on preference)  
-- **Hosting**: Deployed on GitHub Pages / Netlify / Vercel  
+- **Hosting**: Deployed on Vercel  
 
-## 📂 Structure  
-
-- `/src`: Source code for the portfolio.  
-- `/assets`: Images, icons, and other media.  
-- `/public`: Static assets like favicon and meta tags.  
-- `/docs`: Any additional documentation or resources.  
-
-## 🔗 Live Demo  
-
-Check out the live version of my portfolio here: [Insert Live URL]  
-
-## 💼 Projects Featured  
-
-1. **Connect-4 Clone**  
-   - A React-based implementation of the classic Connect-4 game.  
-   - [Live Demo](#) | [Source Code](#)  
-
-2. **Crop Disease Detection System**  
-   - ML-powered system using CNN to classify crop diseases.  
-   - [Live Demo](#) | [Source Code](#)  
-
-3. **Finance Tracker**  
-   - A Python-based tool to track and analyze expenses.  
-   - [Live Demo](#) | [Source Code](#)  
-
-4. **Online Chat App**  
-   - Real-time messaging platform built with React.js and Node.js.  
-   - [Live Demo](#) | [Source Code](#)  
 
 ## 📬 Contact Me  
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **GitHub**: [github.com/your-username](https://github.com/your-username)  
+- **Email**: [tiwarypragya143@gmail.com](mailto:your-tiwarypragya143@gmail.com)  
+- **LinkedIn**: [https://www.linkedin.com/in/pragya-tiwary-87b221221](https://www.linkedin.com/in/pragya-tiwary-87b221221)  
+- **GitHub**: [github.com/pragya3220](https://github.com/pragya3220)  
 
-Feel free to reach out if you’re interested in collaborating or have any questions! 😊  
