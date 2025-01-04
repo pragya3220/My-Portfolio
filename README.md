@@ -15,7 +15,7 @@ Welcome to my portfolio repository! This is where I showcase my skills, projects
 This portfolio is built using modern web technologies for a seamless and responsive experience:  
 - **Frontend**: HTML, CSS, JavaScript, React.js  
 - **Styling**: Tailwind CSS / Bootstrap (customizable based on preference)  
-- **Hosting**: Deployed on Vercel  
+- **Hosting**: Deployed on Vercel  link:https://my-portfolio-git-main-pragya3220s-projects.vercel.app/
 
 
 ## 📬 Contact Me  
